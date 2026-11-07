@@ -1,4 +1,4 @@
-package com.example.EmployeeLeaveManagementSystem.pojo;
+package com.example.leavemanagement.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

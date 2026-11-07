@@ -1,12 +1,12 @@
-package com.example.EmployeeLeaveManagementSystem.controller;
+package com.example.leavemanagement.controller;
 
-import com.example.EmployeeLeaveManagementSystem.dao.EmployeeDao;
-import com.example.EmployeeLeaveManagementSystem.dao.LeaveRequestDao;
-import com.example.EmployeeLeaveManagementSystem.dto.EmployeeDto;
-import com.example.EmployeeLeaveManagementSystem.dto.LeaveRequestDto;
-import com.example.EmployeeLeaveManagementSystem.dto.LeaveRequestShortDto;
-import com.example.EmployeeLeaveManagementSystem.pojo.Employee;
-import com.example.EmployeeLeaveManagementSystem.pojo.LeaveRequest;
+import com.example.leavemanagement.dao.EmployeeDao;
+import com.example.leavemanagement.dao.LeaveRequestDao;
+import com.example.leavemanagement.dto.EmployeeDto;
+import com.example.leavemanagement.dto.LeaveRequestDto;
+import com.example.leavemanagement.dto.LeaveRequestShortDto;
+import com.example.leavemanagement.pojo.Employee;
+import com.example.leavemanagement.pojo.LeaveRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

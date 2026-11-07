@@ -1,6 +1,6 @@
-package com.example.EmployeeLeaveManagementSystem.dto;
+package com.example.leavemanagement.dto;
 
-import com.example.EmployeeLeaveManagementSystem.pojo.LeaveRequest;
+import com.example.leavemanagement.pojo.LeaveRequest;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

@@ -1,6 +1,6 @@
-package com.example.EmployeeLeaveManagementSystem.dao;
+package com.example.leavemanagement.dao;
 
-import com.example.EmployeeLeaveManagementSystem.config.JdbcConfig;
+import com.example.leavemanagement.config.JdbcConfig;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.junit.jupiter.SpringJUnitConfig;

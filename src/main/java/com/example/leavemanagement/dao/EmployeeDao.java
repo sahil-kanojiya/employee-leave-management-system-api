@@ -1,6 +1,6 @@
-package com.example.EmployeeLeaveManagementSystem.dao;
+package com.example.leavemanagement.dao;
 
-import com.example.EmployeeLeaveManagementSystem.pojo.Employee;
+import com.example.leavemanagement.pojo.Employee;
 import lombok.RequiredArgsConstructor;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;

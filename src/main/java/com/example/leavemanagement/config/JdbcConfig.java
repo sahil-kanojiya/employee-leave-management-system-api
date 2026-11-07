@@ -1,4 +1,4 @@
-package com.example.EmployeeLeaveManagementSystem.config;
+package com.example.leavemanagement.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

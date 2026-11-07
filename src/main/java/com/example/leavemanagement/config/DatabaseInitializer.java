@@ -1,4 +1,4 @@
-package com.example.EmployeeLeaveManagementSystem.config;
+package com.example.leavemanagement.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.InitializingBean;
